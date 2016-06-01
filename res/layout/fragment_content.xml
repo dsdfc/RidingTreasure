@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.example.bike.Base.NoScrollViewPager
+        android:id="@+id/vp_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <RadioGroup
+        android:id="@+id/rg_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rb_QiXing"
+            style="@style/BottomTabStyle"
+            android:text="骑行"
+            android:textSize="27dp" />
+
+        <RadioButton
+            android:id="@+id/rb_ZhouBian"
+            style="@style/BottomTabStyle"
+            android:text="周边"
+            android:textSize="27dp" />
+
+        <RadioButton
+            android:id="@+id/rb_SheZhi"
+            style="@style/BottomTabStyle"
+            android:text="设置"
+            android:textSize="27dp" />
+    </RadioGroup>
+
+</LinearLayout>

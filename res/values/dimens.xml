@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="dark_gray">12dp</dimen>
+   <!--  <dimen name="common_text_size_large1">12dp</dimen>
+    <dimen name="common_text_size_large2">12dp</dimen>
+    <dimen name="common_text_size_large3">12dp</dimen>
+    <dimen name="common_text_size_large4">12dp</dimen>
+    <dimen name="common_text_size_large5">12dp</dimen>
+    <dimen name="common_text_size_middle_2">12dp</dimen>
+    <dimen name="common_text_size_middle">12dp</dimen> -->
+    <dimen name="login_login_size">80.0dip</dimen>
+    <dimen name="login_start_wight">200.0dip</dimen>
+    <dimen name="login_start_conner">24.0dip</dimen>
+    <dimen name="login_text_wight">240.0dip</dimen>
+    <dimen name="login_text_icon_size">16.0dip</dimen>
+    <dimen name="login_text_label_wight">70.0dip</dimen>
+    <dimen name="basic_line_height_1">56.0dip</dimen>
+    <dimen name="basic_line_height_2">40.0dip</dimen>
+    <dimen name="basic_line_height_3">48.0dip</dimen>
+    <dimen name="basic_line_height_4">72.0dip</dimen>
+    <dimen name="basic_line_height_5">64.0dip</dimen>
+    <dimen name="common_text_size_large">18.0sp</dimen>
+    <dimen name="common_text_size_large1">20.0sp</dimen>
+    <dimen name="common_text_size_large2">60.0sp</dimen>
+    <dimen name="common_text_size_large3">30.0sp</dimen>
+    <dimen name="common_text_size_large4">26.0sp</dimen>
+    <dimen name="common_text_size_large5">22.0sp</dimen>
+    <dimen name="common_text_size_middle">16.0dip</dimen>
+    <dimen name="common_text_size_middle_3">18.0sp</dimen>
+    <dimen name="common_text_size_middle_2">14.0sp</dimen>
+    <dimen name="common_text_size_small">13.0sp</dimen>
+    <dimen name="common_text_size_small_5">13.0sp</dimen>
+    <dimen name="common_text_size_small_1">11.0sp</dimen>
+    <dimen name="common_text_size_small_2">10.0sp</dimen>
+    <dimen name="common_text_size_small_3">12.0sp</dimen>
+    <dimen name="common_text_size_small_6">14.0sp</dimen>
+    <dimen name="common_text_size_small_4">8.0sp</dimen>
+
+</resources>
